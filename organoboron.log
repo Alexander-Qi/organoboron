@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.27)  13 OCT 2019 14:37
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.27)  13 OCT 2019 14:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1869,6 +1869,8 @@ File: fig/b2pin2mech.eps Graphic file (type eps)
 ]) [12
 
 ]
+File: fig/qrcode.png Graphic file (type bmp)
+<fig/qrcode.png>
 Package atenddvi Info: Last page = 13.
 
 [13
@@ -1883,11 +1885,11 @@ Package atenddvi Info: Last page = 13.
 \tf@snm=\write9
 \openout9 = `organoboron.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 104.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 109.
  (./organoboron.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 104.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 109.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
 Package rerunfilecheck Info: File `organoboron.out' has not changed.
 (rerunfilecheck)             Checksum: 7E295D551F425B1B31BE6876C9EE6244.
 Package logreq Info: Writing requests to 'organoboron.run.xml'.
@@ -1895,11 +1897,11 @@ Package logreq Info: Writing requests to 'organoboron.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31706 strings out of 492933
- 608199 string characters out of 6125513
+ 31695 strings out of 492933
+ 607717 string characters out of 6125513
  897491 words of memory out of 5000000
- 35111 multiletter control sequences out of 15000+600000
- 12963 words of font info for 69 fonts, out of 8000000 for 9000
+ 35096 multiletter control sequences out of 15000+600000
+ 12971 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,21n,92p,778b,33182s stack positions out of 5000i,500n,10000p,200000b,80000s
 
