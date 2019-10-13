@@ -1,0 +1,310 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{RN3}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LDR}{%
+         family={Lide},
+         familyi={L\bibinitperiod},
+         given={David\bibnamedelima R.},
+         giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {CRC Press/Taylor}%
+      {Francis}%
+    }
+    \strng{namehash}{LDR1}
+    \strng{fullhash}{LDR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{90th Edition (CD-ROM Version 2010)}
+    \field{title}{CRC Handbook of Chemistry and Physics}
+    \list{location}{1}{%
+      {Boca Raton, FL.}%
+    }
+    \field{type}{Book}
+  \endentry
+
+  \entry{RN7}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BHC}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Herbert\bibnamedelima C.},
+         giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=DMC}{%
+         family={Desai},
+         familyi={D\bibinitperiod},
+         given={Manoj\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=JPK}{%
+         family={Jadhav},
+         familyi={J\bibinitperiod},
+         given={Prabhakar\bibnamedelima K.},
+         giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BHCDMCJPK1}
+    \strng{fullhash}{BHCDMCJPK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1021/jo00147a004
+    \endverb
+    \field{number}{26}
+    \field{title}{Hydroboration. 61. Diisopinocampheylborane of high optical
+  purity. Improved preparation and asymmetric hydroboration of representative
+  cis-disubstituted alkenes}
+    \field{volume}{47}
+    \field{journaltitle}{The Journal of Organic Chemistry}
+    \field{year}{1982}
+  \endentry
+
+  \entry{RN6}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BHC}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Herbert\bibnamedelima C.},
+         giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Chandrasekharan},
+         familyi={C\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RPV}{%
+         family={Ramachandran},
+         familyi={R\bibinitperiod},
+         given={P.\bibnamedelima V.},
+         giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BHCCJRPV1}
+    \strng{fullhash}{BHCCJRPV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1021/ja00213a030
+    \endverb
+    \field{number}{5}
+    \field{title}{Chiral synthesis via organoboranes. 14. Selective reductions.
+  41. Diisopinocampheylchloroborane, an exceptionally efficient chiral reducing
+  agent}
+    \field{volume}{110}
+    \field{journaltitle}{Journal of the American Chemical Society}
+    \field{year}{1988}
+  \endentry
+
+  \entry{RN4}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BHC}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Herbert\bibnamedelima C.},
+         giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BKS}{%
+         family={Bhat},
+         familyi={B\bibinitperiod},
+         given={Krishna\bibnamedelima S.},
+         giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=RRS}{%
+         family={Randad},
+         familyi={R\bibinitperiod},
+         given={Ramnarayan\bibnamedelima S.},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BHCBKSRRS1}
+    \strng{fullhash}{BHCBKSRRS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1021/jo00378a042
+    \endverb
+    \field{issn}{0022-3263}
+    \field{number}{2}
+    \field{pages}{319\bibrangedash 320}
+    \field{title}{$\beta$-Allyldiisopinocampheylborane: a remarkable reagent
+  for the diastereoselective allylboration of $\alpha$-substituted chiral
+  aldehydes}
+    \verb{url}
+    \verb https://doi.org/10.1021/jo00378a042
+    \endverb
+    \field{volume}{52}
+    \field{type}{Journal Article}
+    \field{journaltitle}{The Journal of Organic Chemistry}
+    \field{year}{1987}
+  \endentry
+
+  \entry{RN8}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PJ}{%
+         family={Pyziak},
+         familyi={P\bibinitperiod},
+         given={Jadwiga},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Walkowiak},
+         familyi={W\bibinitperiod},
+         given={Jędrzej},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Marciniec},
+         familyi={M\bibinitperiod},
+         given={Bogdan},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PJWJMB1}
+    \strng{fullhash}{PJWJMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1002/chem.201602124
+    \endverb
+    \field{number}{15}
+    \field{title}{Recent Advances in Boron-Substituted 1,3-Dienes Chemistry:
+  Synthesis and Application}
+    \field{volume}{23}
+    \field{year}{2017}
+  \endentry
+
+  \entry{cannillo2013fast}{article}{}
+    \name{author}{6}{}{%
+      {{hash=CA}{%
+         family={Cannillo},
+         familyi={C\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Norsikian},
+         familyi={N\bibinitperiod},
+         given={Stéphanie},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Retailleau},
+         familyi={R\bibinitperiod},
+         given={Pascal},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=DMETH}{%
+         family={Dau},
+         familyi={D\bibinitperiod},
+         given={Marie-Elise Tran\bibnamedelima Huu},
+         giveni={M\bibinithyphendelim E\bibinitperiod\bibinitdelim
+  T\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=IBI}{%
+         family={Iorga},
+         familyi={I\bibinitperiod},
+         given={Bogdan\bibnamedelima I.},
+         giveni={B\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=BJM}{%
+         family={Beau},
+         familyi={B\bibinitperiod},
+         given={Jean-Marie},
+         giveni={J\bibinithyphendelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CA+1}
+    \strng{fullhash}{CANSRPDMETHIBIBJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1002/chem.201301712
+    \endverb
+    \field{number}{28}
+    \field{title}{Fast Synthesis of Complex Enantiopure Heterocyclic Scaffolds
+  by a Tandem Sequence of Simple Transformations on α-Hydroxyaldehydes}
+    \field{volume}{19}
+    \field{journaltitle}{Chemistry – A European Journal}
+    \field{year}{2013}
+  \endentry
+
+  \entry{RN9}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ZL}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=JL}{%
+         family={Jiao},
+         familyi={J\bibinitperiod},
+         given={Lei},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZLJL1}
+    \strng{fullhash}{ZLJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1039/C8SC00008E
+    \endverb
+    \field{number}{10}
+    \field{title}{Super electron donors derived from diboron}
+    \field{volume}{9}
+    \field{journaltitle}{Chemical Science}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Pyridine}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ZL}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=JL}{%
+         family={Jiao},
+         familyi={J\bibinitperiod},
+         given={Lei},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZLJL1}
+    \strng{fullhash}{ZLJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1021/jacs.6b11813
+    \endverb
+    \field{number}{2}
+    \field{title}{Pyridine-Catalyzed Radical Borylation of Aryl Halides}
+    \field{volume}{139}
+    \field{journaltitle}{Journal of the American Chemical Society}
+    \field{year}{2017}
+  \endentry
+\enddatalist
+\endinput

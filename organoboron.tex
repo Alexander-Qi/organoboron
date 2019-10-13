@@ -1,0 +1,104 @@
+\documentclass{beamer}
+
+
+% Beamer Settings
+\mode<presentation>
+\usetheme{CambridgeUS}
+\usecolortheme{beaver}
+\setbeamerfont{footnote}{size=\tiny}
+
+\usepackage{chemfig}
+\usepackage{float}
+
+\usepackage{multirow}
+\usepackage{url}
+\usepackage{framed}
+\usepackage{graphicx}
+\usepackage{enumerate}
+\usepackage{threeparttable}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{hyperxmp}
+\usepackage{minipage-marginpar}
+\usepackage{subfigure}
+\usepackage{wrapfig}
+
+%\usepackage{setspace}
+\graphicspath{{fig/}}
+
+% 让chemfig用无衬线字体
+\renewcommand * \printatom[1]{\ensuremath{\mathsf{#1}}}
+
+
+% Changing Fonts to Arial
+%\usefonttheme{professionalfonts} % using non standard fonts for beamer
+%\usefonttheme{serif} % default family is serif
+%\usepackage{fontspec}
+%\setmainfont{Arial}
+
+\hypersetup{pdfinfo={
+		Author = {Jian-Qing Qi},
+		Title = {Organoboron Compounds: Prevalent and Novel Applications},
+		Keywords = {organoboron},
+		Subject = Draft version,},
+	pdfcopyright = {Copyright (C) 2019 by Jian-Qing Qi. All rights reserved.},
+	pdflicenseurl = {https://alexander-qi.github.io/}}
+
+\title[Organoboron]{Organoboron Compounds:\\ Prevalent and Novel Applications}
+
+\author{Jian-Qing Qi}
+\date{2019.12.3}
+\institute{Tsinghua University}
+
+%\logo{\includegraphics[height=1cm]{tsinghua-logo.eps}}
+\titlegraphic{\includegraphics[height=1.5cm]{tsinghua-logo.eps}}
+
+
+\usepackage[backend=bibtex,style=numeric,sorting=none]{biblatex}
+\addbibresource{data/boron.bib} %BibTeX数据文件及位置
+%\setbeamerfont{footnote}{size=\tiny}
+
+\begin{document}
+	\begin{frame}
+	\titlepage
+	
+\end{frame}
+
+\begin{frame}
+\frametitle{Contents}
+\tableofcontents
+\end{frame}
+
+
+\section{Introduction}
+
+\input{data/intro.tex}
+
+\section{Boron-Substituted 1,3-Dienes}
+
+\input{data/diene.tex}
+
+\section{Organoboron Compounds for SET}
+
+\input{data/set.tex}
+
+\section{Annex}
+\begin{frame}
+	\frametitle{Acknowledgments}
+	thanks
+	\begin{itemize}
+		\item Prof. Jiao
+		\item Associated Prof. Chen
+		\item ...
+	\end{itemize}
+\end{frame}
+	\begin{frame}
+		\frametitle{Annex}
+		This slide and articles cited in the slide can be found here:
+		
+		\begin{description}
+			\item[This Slide]{http:github}
+			\item[Articles Cited]{hostr.co}
+		\end{description}
+	\end{frame}
+\end{document}
