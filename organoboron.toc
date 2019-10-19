@@ -6,4 +6,6 @@
 \defcounter {refsection}{0}\relax 
 \beamer@sectionintoc {3}{Organoboron Compounds for SET}{9}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {4}{Annex}{12}{0}{4}
+\beamer@sectionintoc {4}{Metal-Free Borylation}{12}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Annex}{14}{0}{5}

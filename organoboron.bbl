@@ -306,5 +306,110 @@
     \field{journaltitle}{Journal of the American Chemical Society}
     \field{year}{2017}
   \endentry
+
+  \entry{RN11}{article}{}
+    \name{author}{15}{}{%
+      {{hash=LJ}{%
+         family={Lv},
+         familyi={L\bibinitperiod},
+         given={Jiahang},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CX}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Xiangyang},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=XXS}{%
+         family={Xue},
+         familyi={X\bibinitperiod},
+         given={Xiao-Song},
+         giveni={X\bibinithyphendelim S\bibinitperiod},
+      }}%
+      {{hash=ZB}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Binlin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Yong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Minyan},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JL}{%
+         family={Jin},
+         familyi={J\bibinitperiod},
+         given={Liqun},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Yuan},
+         familyi={Y\bibinitperiod},
+         given={Yu},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HY}{%
+         family={Han},
+         familyi={H\bibinitperiod},
+         given={Ying},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Yue},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Yi},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Jing},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SWY}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Wei-Yin},
+         giveni={W\bibinithyphendelim Y\bibinitperiod},
+      }}%
+      {{hash=HKN}{%
+         family={Houk},
+         familyi={H\bibinitperiod},
+         given={Kendall\bibnamedelima N.},
+         giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=SZ}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={Zhuangzhi},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ+1}
+    \strng{fullhash}{LJCXXXSZBLYWMJLYYHYZYLYZJSWYHKNSZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/s41586-019-1640-2
+    \endverb
+    \field{title}{Metal-free directed C–H bond activation and borylation}
+    \field{journaltitle}{Nature}
+    \field{year}{2019}
+  \endentry
 \enddatalist
 \endinput
