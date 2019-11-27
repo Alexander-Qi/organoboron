@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.27)  19 OCT 2019 19:52
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.27)  27 NOV 2019 19:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1882,8 +1882,13 @@ File: fig/metalfree-mech.jpg Graphic file (type bmp)
 ]
 File: fig/qrcode-2.png Graphic file (type bmp)
 <fig/qrcode-2.png>
-Package atenddvi Info: Last page = 15.
  [15
+
+]
+File: fig/yss.jpg Graphic file (type bmp)
+<fig/yss.jpg>
+Package atenddvi Info: Last page = 16.
+ [16
 
 ]
 \tf@nav=\write7
@@ -1895,11 +1900,11 @@ Package atenddvi Info: Last page = 15.
 \tf@snm=\write9
 \openout9 = `organoboron.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 116.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 126.
  (./organoboron.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 116.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 116.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 126.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 126.
 Package rerunfilecheck Info: File `organoboron.out' has not changed.
 (rerunfilecheck)             Checksum: BBA82546FA1F6F3C2FD78E1036D78EEB.
 Package logreq Info: Writing requests to 'organoboron.run.xml'.
@@ -1907,12 +1912,12 @@ Package logreq Info: Writing requests to 'organoboron.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31718 strings out of 492933
- 608128 string characters out of 6125513
- 897535 words of memory out of 5000000
- 35115 multiletter control sequences out of 15000+600000
+ 31725 strings out of 492933
+ 608206 string characters out of 6125513
+ 897531 words of memory out of 5000000
+ 35121 multiletter control sequences out of 15000+600000
  12971 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,21n,92p,778b,33182s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on organoboron.pdf (15 pages).
+Output written on organoboron.pdf (16 pages).
