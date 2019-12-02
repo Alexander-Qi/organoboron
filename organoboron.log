@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.27)  27 NOV 2019 19:35
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.27)  2 DEC 2019 16:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1792,32 +1792,32 @@ File: fig/tsinghua-logo.eps Graphic file (type eps)
 [2
 
 ] (./data/intro.tex
-LaTeX Font Info:    Try loading font information for U+msa on input line 36.
+LaTeX Font Info:    Try loading font information for U+msa on input line 37.
 
 (d:/Program Files/texlive2018/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.f
 d
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 36.
+LaTeX Font Info:    Try loading font information for U+msb on input line 37.
 
 (d:/Program Files/texlive2018/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.f
 d
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 36.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 37.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 36.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 37.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 36.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 37.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <14.4> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 36.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 37.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 36.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 37.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <7> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 36.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 37.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 36.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 37.
  [3
 
 ]
@@ -1826,7 +1826,7 @@ File: fig/AsymmetricReduction.eps Graphic file (type eps)
 
 
 LaTeX Font Warning: Font shape `TU/lmss/m/sc' in size <6> not available
-(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 49.
+(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 50.
 
 [4
 
@@ -1885,10 +1885,17 @@ File: fig/qrcode-2.png Graphic file (type bmp)
  [15
 
 ]
+File: fig/expl2.png Graphic file (type bmp)
+<fig/expl2.png>
+File: fig/expl1.png Graphic file (type bmp)
+<fig/expl1.png>
+ [16
+
+]
 File: fig/yss.jpg Graphic file (type bmp)
 <fig/yss.jpg>
-Package atenddvi Info: Last page = 16.
- [16
+Package atenddvi Info: Last page = 17.
+ [17
 
 ]
 \tf@nav=\write7
@@ -1900,11 +1907,11 @@ Package atenddvi Info: Last page = 16.
 \tf@snm=\write9
 \openout9 = `organoboron.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 126.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 145.
  (./organoboron.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 126.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 126.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 145.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
 Package rerunfilecheck Info: File `organoboron.out' has not changed.
 (rerunfilecheck)             Checksum: BBA82546FA1F6F3C2FD78E1036D78EEB.
 Package logreq Info: Writing requests to 'organoboron.run.xml'.
@@ -1912,12 +1919,12 @@ Package logreq Info: Writing requests to 'organoboron.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31725 strings out of 492933
- 608206 string characters out of 6125513
- 897531 words of memory out of 5000000
- 35121 multiletter control sequences out of 15000+600000
+ 31776 strings out of 492933
+ 608952 string characters out of 6125513
+ 899531 words of memory out of 5000000
+ 35170 multiletter control sequences out of 15000+600000
  12971 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,21n,92p,778b,33182s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on organoboron.pdf (16 pages).
+Output written on organoboron.pdf (17 pages).
